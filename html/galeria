@@ -1,0 +1,59 @@
+<head>
+<title> Mi historia </title>
+
+</head>
+
+<body bgcolor="000000" >
+
+
+<center>
+  <a href="index.html">
+<img src="inicio2.png"></a>
+
+<a href="primeros.html">
+<img src="primeros.png"></a>
+
+<a href="galeria.html">
+<img src="galeria.png"></a>
+
+<a href="contacto.html">
+<img src="contacto.png"></a>
+</center>
+
+<big style="font-family:Brush Script MT"><i>
+<center>
+<h1 style="color:aqua"> ¿Quien soy? </h1>
+</center>
+</big>
+
+
+<p style="font-family:serif">
+  <font color="white">
+    <h4>
+    Soy Maria Lucia Paez Hernandez tengo 14 años y naci el 2 de septiembre del 2007, estudio en el colegio kirpalamar en el grado 902, vivo en fusagasuga cundinamarca con mis papas Consuelo Hernandez y Saul Paez, no tengo hermanos pero si una familia muy grande por lo que me gusta compartir tiempo en familia soy una persona muy cariñosa,sincera y un poco consentida ya que soy la mas pequeña y la unica mujer en mi familia tambien me gusta pasar timpo con amigos y aprender cosas nuevas, me gustaria estudiar algo relacionado con la salud para asi poder ayudar a la gente y de alguna manera ser el orgullo de mi familia y poder ir recompensandolos poco a poco
+</h4>
+</center>
+</font>
+</p>
+
+
+<p>
+  <center>
+<img src="yop.png" width="260" height="290" />
+</center>
+</p>
+
+<br>
+<center style="font-family:times new roman">
+  <font color="white">
+<a href="index.html">Inicio</a>
+<a href="primeros.html">Mis primeros años</a>
+<a href="galeria.html">Galeria</a>
+<a href="contacto.html">Contacto</a>
+</font>
+<br>
+
+
+
+</body>
+</html>
